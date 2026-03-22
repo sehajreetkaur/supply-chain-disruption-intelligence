@@ -9,9 +9,7 @@
 | Deliverable | Link |
 |---|---|
 | Tableau Dashboard | [View Live Dashboard](#) |
-| GitHub Repository | [github.com/sehajreetkaur/supply-chain-disruption-intelligence](#) |
-
-> Replace `#` with your actual URLs after publishing
+| GitHub Repository | [github.com/sehajreetkaur/supply-chain-disruption-intelligence](https://public.tableau.com/views/Book1_17737774184580/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) |
 
 ---
 
